@@ -1,0 +1,8 @@
+streamlit==1.32.0
+pandas==2.1.0
+plotly==5.18.0
+openpyxl==3.1.2  # For Excel file support
+fpdf2==2.7.7     # For PDF generation
+python-dotenv==1.0.0  # (Optional) For environment variables
+tempfile==        # (Built-in, no need to install)
+base64==          # (Built-in, no need to install)

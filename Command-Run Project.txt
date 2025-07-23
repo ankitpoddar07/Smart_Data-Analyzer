@@ -1,0 +1,4 @@
+How to Run this project :
+
+
+>>  streamlit run app.py
